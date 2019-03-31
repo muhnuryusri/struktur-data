@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Nama           : Muhammad Nur Yusri"<<endl;
+    cout << "NIM            : 1829141023"<<endl;
+    cout << "Kelas          : Teknik Komputer B"<<endl;
+    cout << "Tahun Angkatan : 2018"<<endl;
+
+return 0;
+}
